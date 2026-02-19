@@ -1,9 +1,0 @@
-
-Loan Approval Prediction Project
-
-This project automates loan approval decisions using machine learning.
-After comparing multiple models, Random Forest achieved the best performance
-with high accuracy, precision, and recall.
-
-Conclusion:
-Machine learning can significantly improve banking efficiency and reduce loan risks.
